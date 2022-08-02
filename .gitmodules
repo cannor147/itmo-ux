@@ -1,12 +1,12 @@
-[submodule "hw01"]
-	path = hw01
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/ux/homeworks/01-about-cats.git
-[submodule "hw02"]
-	path = hw02
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/ux/homeworks/02-cats-for-all.git
-[submodule "hw03"]
-	path = hw03
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/ux/homeworks/03-pimp-your-cat.git
-[submodule "hw04"]
-	path = hw04
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/ux/homeworks/04-murpassport.git
+[submodule "hw01-about-cats"]
+	path = hw01-about-cats
+	url = git@github.com:cannor147/itmo-ux-hw01-about-cats.git
+[submodule "hw02-cats-for-all"]
+	path = hw02-cats-for-all
+	url = git@github.com:cannor147/itmo-ux-hw02-cats-for-all.git
+[submodule "hw03-pimp-your-cat"]
+	path = hw03-pimp-your-cat
+	url = git@github.com:cannor147/itmo-ux-hw03-pimp-your-cat.git
+[submodule "hw04-murpassport"]
+	path = hw04-murpassport
+	url = git@github.com:cannor147/itmo-ux-hw04-murpassport.git
